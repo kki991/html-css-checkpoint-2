@@ -93,7 +93,7 @@ h1,h2,h3,h4,h5,h6 {
 }
 
 .hero{
-    background-image: url(assests/gallery/banner.jpg);
+    background-image: url(gallery/banner.jpg);
     height: 70vh;
     position: relative;
 }
